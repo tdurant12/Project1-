@@ -1,3 +1,18 @@
 body{
-    background-color:rgb(241, 171, 182)
+    width: min-content 100px;
+    width: max-content 100px;
+    margin: auto;
+    position: fixed;
+    left: auto;
+    right: auto;
+    bottom: auto;
+    top: auto;
+}
+img{
+    margin: auto;
+    display: block;
+    max-height: auto;
+    max-width: 100%;
+    background-size: auto;
+
 }
