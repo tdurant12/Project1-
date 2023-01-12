@@ -1,0 +1,48 @@
+body{
+    width: min-content 100px fit-content;
+    width: max-content 100px fit-content;
+    position: fixed fit-content;
+    background-position:center fixed ;
+    background-size: contain fit-content;
+    background-color: rgb(220, 150, 150);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-image:url(/Users/skillsacademy84/sei-synchrony/projects/Project1/Project1-Love-Compatibilty/Heart.jpg);
+}
+
+button{
+    background-color: orangered;
+    text-align: center;
+    color: white;
+    width: 90px;
+    height: 40px;
+    margin-left: 530px;
+    margin-top: 410px;
+    border-radius: 26PX;
+    border-color: gold;
+
+}
+.container{
+    position: fixed;
+    display:grid;
+    /* width: 100px; */
+    position: fixed;
+    top: 50%;
+    width: 50px;
+    text-align: center;
+    font-size: 20px;
+    margin-left: 500px;
+    margin-right: 300px;
+    margin-top: -130px;
+}
+h1{
+    text-align: center;
+    color:black;
+    font-style: oblique;
+    font-family: 'Times New Roman', Times, serif;
+    border-style:outset;
+    border-color: gold;
+}
+input{
+    border-color: goldenrod;
+}
