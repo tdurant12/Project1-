@@ -1,12 +1,11 @@
 // console.log("hello world")
 
-const button = document.getElementById('button-id');
+// const submitButton = document.querySelector('.submitButton');
+const yourName= document.querySelector('.fname')
+// const yourLover=document.querySelector('.sname')
 
-if (button){
-    button.addEventListener('click', function () {
-        alert( "RESULTS LOADING..."); 
-})};
- 
+//CALL API//
+
 const options = {
 	method: 'GET',
 	headers: {
