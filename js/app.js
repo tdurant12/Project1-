@@ -1,7 +1,13 @@
 const myURL= 'https://love-calculator.p.rapidapi.com/getPercentage?sname=Alice&fname=John'
-function prompt(){
 
-	alert("You have a "+ "" + getPercentage+ "%"+ ""+ " Chance at Love!")
+	const fname= document.getElementById("fname")
+	const sname= document.getElementById("sname")
+	
+function prompt(){
+const fname= document.getElementById("fname")
+	const sname= document.getElementById("sname")
+	
+	alert( "You have a " + ""+ getPercentage+ "%"+ ""+ " Chance at Love!")
 }
 const options = {
 	method: 'GET',
@@ -17,9 +23,11 @@ fetch('https://love-calculator.p.rapidapi.com/getPercentage?sname=Alice&fname=Jo
 	.then(response => console.log(response))
 	.catch(err => console.error(err));{
 	
-		
 	}
-	
+console.log(data.Object.percentage)
+
+
+
 
 
 
