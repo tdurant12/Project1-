@@ -16,12 +16,12 @@ https://amazing-haupia-64a662.netlify.app
 
 #Unsolved Issues
 
--I was Unable to link the form elements to the alert in the Prompt function so it would tel you the names that were entered as well as their love score.
+- I was Unable to link the form elements to the alert in the Prompt function so it would tel you the names that were entered as well as their love score.
 - I was having persistent issues with connecting to the love calculator API. I was receiving timeout erros as well as 404, 405, 429 errors.
 
 #Stretch Goals
 
--since I did not have time to insert a modal due to the issues i was running into I would like to implement a modal instead of a alert, so I can better customize The alert to my liking.
+- since I did not have time to insert a modal due to the issues i was running into I would like to implement a modal instead of a alert, so I can better customize The alert to my liking.
 
 - I would have liked to have added css font animations to my header.
 
