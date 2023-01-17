@@ -25,7 +25,7 @@ https://amazing-haupia-64a662.netlify.app
 
 - I would have liked to have added css font animations to my header.
 
-#WireFrame
+# WireFrame
 
 ![LOVE Compatibility app (Project 1) Tahira D](https://user-images.githubusercontent.com/117793128/213021150-816e6184-b482-4592-b24a-2c9ca38caf02.jpg)
 
