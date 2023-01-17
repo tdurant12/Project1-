@@ -24,12 +24,6 @@ fetch('https://love-calculator.p.rapidapi.com/getPercentage?sname=Alice&fname=Jo
 	.catch(err => console.error(err));{
 	
 	}
-console.log(data.Object.percentage)
-
-
-
-
-
 
 const lover= document.getElementById('lover');
 
