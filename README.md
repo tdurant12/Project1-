@@ -1,7 +1,7 @@
 # Project1- Love Compatibility
 
 
-Description
+# Description
 Love calculator application. User enters their name and their Crushes name and get a percentage back How much of a match they are.
 This app will provide the user with a score that indicates if two individuals are compatible based off of their names.
 
