@@ -9,7 +9,7 @@ This app will provide the user with a score that indicates if two individuals ar
 
 Since this is my first app, I decided to take more of a simpler approach. I created a input form that accepts two names, one for the user and one for their crush. Instead of using a modal or a pop up box I used an alert box. since I was having issues connecting to the love APi Calculator server I decided to created a function that give a random percentage 1-100%.
 
-As a user I want to be able to enter My name and then enter my Crush's or ideal mates name, so that I can receive a score or a compatibility rating that indicates whether or not we are an ideal match for eachother.
+As a user I wanted to be able to enter My name and then enter my Crush's or ideal mates name, so that I can receive a score or a compatibility rating that indicates whether or not we are an ideal match for eachother.
 
 # Link To Site
 https://amazing-haupia-64a662.netlify.app
@@ -25,5 +25,7 @@ https://amazing-haupia-64a662.netlify.app
 
 - I would have liked to have added css font animations to my header.
 
+#WireFrame
 
+![LOVE Compatibility app (Project 1) Tahira D](https://user-images.githubusercontent.com/117793128/213021150-816e6184-b482-4592-b24a-2c9ca38caf02.jpg)
 
